@@ -36,3 +36,10 @@ using get push it will request a username [rzafft1] and a personal token,
 that can be created and copied in the devloper section of our profile 
 setting on github
 
+## Thoughts on this course
+- So far I have really enjoyed the strucutre of this course
+- I like that we are able to work somewhat freely and are encouraged to 
+get work done on our own schedule
+- I think the strucutre you have in this course will be very constructive 
+for students, and will push students to understand and learn rather than 
+get stressed out and rush to finish projects

@@ -31,4 +31,8 @@ learning the guitar, and traveling.
 - I am comfterable with cloning repos, adding files, pushing changes and 
 making commits
 - Here I did 'git clone [repo name]' ... 'nano Profile.md' ... 'git add 
-Profile.md' ... 'git commit -m "added Profile.md' ... 'git push'
+Profile.md' ... 'git commit -m "added Profile.md' ... 'git push'... when 
+using get push it will request a username [rzafft1] and a personal token, 
+that can be created and copied in the devloper section of our profile 
+setting on github
+
